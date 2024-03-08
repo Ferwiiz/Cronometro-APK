@@ -1,2 +1,1 @@
-# Cronometro
-#Cronometro
+# Cronometro-APK
